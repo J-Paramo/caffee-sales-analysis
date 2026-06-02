@@ -56,16 +56,16 @@ Durante la limpieza se realizaron las siguientes tareas:
 - Insight clave: Alta concentración de ingresos en pocos productos.
 
 ## Recomendaciones
-1. Gestión de inventario enfocada en productos clave
+### 1. Gestión de inventario enfocada en productos clave
 - Priorizar stock y disponibilidad de Salad, Sandwich y Smoothie, ya que representa la mayor parte del ingresos.
-2. Revisión de productos de bajo valor
+### 2. Revisión de productos de bajo valor
 - Cookie, Tea y Coffee generan menor ingreso relativo. Se recomienda:
 - Ajustar precios.
 - Mejorar marketing.
 - Evaluar si mantener o reformular oferta.
-3. Estrategia por días pico
+### 3. Estrategia por días pico
 - Incrementar personal y stock los días Friday, Saturday y Sunday para aprovechar mayor la demanda.
-4. Reducir dependencia de pocos productos
+### 4. Reducir dependencia de pocos productos
 - Como más del 50% de ingresos viene de pocos productos:
 - Diversificar oferta.
 - Promocionar productos secundarios.
