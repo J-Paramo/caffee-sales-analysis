@@ -27,6 +27,7 @@ Durante la limpieza se realizaron las siguientes tareas:
     • Pandas
     • Numpy
     • Matplotlib
+    • Plotly
     • Seaborn
     • Jupyter Notebook
     
