@@ -8,6 +8,7 @@ El dataset contiene problemas típicos del mundo real como:
 - Valores faltantes
 - Errores de registro
 - Tipos de datos incorrectos
+  
 Después de la limpieza, el dataset se utiliza para analizar:
 - Rendimiento de productos
 - Ingresos
