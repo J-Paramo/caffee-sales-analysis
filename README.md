@@ -4,6 +4,7 @@ Explorar y limpiar un dataset de ventas de cafetería para obtener insights sobr
 
 ## Descripción del proyecto
 Este proyecto se centra en la limpieza de datos reales y el análisis exploratorio (EDA)
+
 El dataset contiene problemas típicos del mundo real como:
 - Valores faltantes
 - Errores de registro
