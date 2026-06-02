@@ -1,6 +1,6 @@
 # Dirty Cafe Sales Analysis
 ## Objetivo
-Explorar y limpiar un dataset de ventas de cafetería para obtener insights sobre productos, ventas, comportamiento de clientes y calidad de los datos.
+Explorar y limpiar un dataset de ventas de cafetería para obtener insights sobre productos, ventas, y calidad de los datos.
 
 ## Descripción del proyecto
 Este proyecto se centra en la limpieza de datos reales y el análisis exploratorio (EDA)
